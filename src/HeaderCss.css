@@ -1,0 +1,21 @@
+#logo {
+  margin-left: 15px;
+}
+
+.Head {
+  display: flex;
+  align-items: center;
+  background-color: blueviolet;
+  font-size: large;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 200px;
+}
+
+li {
+  list-style-type: none;
+  float: left;
+  margin-left: 100px;
+}
